@@ -5,7 +5,7 @@
   "private": true,
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "grunt test",
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
